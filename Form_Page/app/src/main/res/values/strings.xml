@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Form_Page</string>
+    <string name="name">Enter Name</string>
+    <string name="pass">Enter Password</string>
+    <string name="heading">21-AIRD-818</string>
+    <string name="submit">Submit</string>
+    <string name="the_name_is">The Name is : </string>
+    <string name="the_password_is">The Password is : </string>
+    <string name="_21_arid_818">21-ARID-818</string>
+</resources>
